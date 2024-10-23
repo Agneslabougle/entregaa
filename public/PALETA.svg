@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2360.18 1010.83">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        fill: #80afc1;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #223a54;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+        stroke-width: 1.14px;
+      }
+
+      .cls-3 {
+        fill: #a0a09f;
+      }
+
+      .cls-4 {
+        fill: #385491;
+      }
+
+      .cls-6 {
+        font-family: Montserrat-Light, Montserrat;
+        font-weight: 300;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15 {
+        font-family: Montserrat-Italic, Montserrat;
+        font-style: italic;
+      }
+
+      .cls-16 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-13, .cls-14, .cls-15, .cls-17 {
+        font-size: 41.18px;
+      }
+
+      .cls-13, .cls-17 {
+        fill: #1d1d1b;
+      }
+
+      .cls-14, .cls-18 {
+        fill: #223a55;
+      }
+
+      .cls-15, .cls-19 {
+        fill: #fff;
+      }
+
+      .cls-20 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        letter-spacing: 0em;
+      }
+
+      .cls-28 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #1e3659;
+      }
+
+      .cls-29 {
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-30 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        letter-spacing: 0em;
+      }
+
+      .cls-33 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-18, .cls-19 {
+        stroke-width: 0px;
+      }
+
+      .cls-34 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-35 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="70.15" y="113.95" width="393.74" height="278.9"/>
+  <rect class="cls-18" x="463.89" y="113.95" width="393.74" height="278.9"/>
+  <rect class="cls-5" x="463.89" y="392.85" width="393.74" height="278.9"/>
+  <rect class="cls-3" x="857.63" y="392.85" width="393.74" height="278.9"/>
+  <rect class="cls-4" x="463.89" y="671.75" width="393.74" height="278.9"/>
+  <text class="cls-14" transform="translate(82.7 162.99)"><tspan x="0" y="0">#8</tspan><tspan class="cls-26" x="54.94" y="0">0</tspan><tspan x="81.91" y="0">A</tspan><tspan class="cls-10" x="111.44" y="0">F</tspan><tspan class="cls-22" x="137.14" y="0">C</tspan><tspan x="167.16" y="0">1</tspan></text>
+  <text class="cls-14" transform="translate(481.37 447.51)"><tspan x="0" y="0">#FFFFFF</tspan></text>
+  <text class="cls-14" transform="translate(877.22 447.51)"><tspan x="0" y="0">#</tspan><tspan class="cls-24" x="28.66" y="0">A0A</tspan><tspan x="114.12" y="0">09F</tspan></text>
+  <text class="cls-15" transform="translate(484.76 162.99)"><tspan x="0" y="0">#22</tspan><tspan class="cls-7" x="75.45" y="0">3</tspan><tspan class="cls-23" x="98.76" y="0">A</tspan><tspan class="cls-31" x="128.28" y="0">5</tspan><tspan x="151.39" y="0">5</tspan></text>
+  <text class="cls-15" transform="translate(479.25 718.24)"><tspan x="0" y="0">#385</tspan><tspan class="cls-25" x="101.47" y="0">4</tspan><tspan x="128.37" y="0">91</tspan></text>
+  <rect class="cls-19" x="12.68" y="459.18" width="93.24" height="73.12"/>
+  <text class="cls-13" transform="translate(70.15 459.18)"><tspan class="cls-35" x="0" y="0">P</tspan><tspan class="cls-9" x="29.03" y="0">ale</tspan><tspan class="cls-21" x="92.91" y="0">t</tspan><tspan x="108.85" y="0">a </tspan><tspan x="0" y="49.42">de </tspan><tspan class="cls-10" x="0" y="98.84">c</tspan><tspan class="cls-9" x="22.82" y="98.84">olo</tspan><tspan class="cls-35" x="85.54" y="98.84">r</tspan><tspan x="101.52" y="98.84">es</tspan></text>
+  <text class="cls-17" transform="translate(1717.32 311.84)"><tspan class="cls-29"><tspan x="0" y="0">Montse</tspan><tspan class="cls-28" x="154.68" y="0">r</tspan><tspan class="cls-16" x="170.87" y="0">r</tspan><tspan x="185.44" y="0">at Regular 123</tspan></tspan><tspan class="cls-12"><tspan x="0" y="98.84">Montse</tspan><tspan class="cls-32" x="154.68" y="98.84">r</tspan><tspan class="cls-34" x="170.78" y="98.84">r</tspan><tspan x="186.76" y="98.84">at I</tspan><tspan class="cls-21" x="254.63" y="98.84">t</tspan><tspan x="270.57" y="98.84">alic 123</tspan></tspan><tspan class="cls-6"><tspan x="0" y="197.68">Montse</tspan><tspan class="cls-11" x="153.28" y="197.68">r</tspan><tspan class="cls-20" x="169.14" y="197.68">r</tspan><tspan x="183.39" y="197.68">at Light 123</tspan></tspan><tspan class="cls-30"><tspan x="0" y="296.52">Montse</tspan><tspan class="cls-27" x="160.53" y="296.52">r</tspan><tspan class="cls-1" x="178.11" y="296.52">r</tspan><tspan x="194.26" y="296.52">at Bold 123</tspan></tspan></text>
+  <text class="cls-13" transform="translate(1825.93 162.99)"><tspan x="0" y="0">Tipog</tspan><tspan class="cls-33" x="116.67" y="0">r</tspan><tspan class="cls-8" x="132.65" y="0">afias:</tspan></text>
+  <line class="cls-5" x1="2263.44" y1="215.06" x2="2263.44" y2="673.53"/>
+  <line class="cls-5" x1="1636.4" y1="215.06" x2="1636.4" y2="673.53"/>
+</svg>
